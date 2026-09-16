@@ -36,30 +36,6 @@ I'm interested in **software development, cybersecurity and artificial intellige
   <b>Cloud</b> · AWS · Firebase · Firestore
 </p>
 
----
-
-## 🚀 Featured Project
-
-### 🧠 EmotionLab
-
-An immersive VR platform that combines **Artificial Intelligence, data analysis and web technologies** to support emotional management during university presentations.
-
-`Unity` `React` `Flask` `Firebase` `AWS` `AI`
-
----
-
-## 🔐 Cybersecurity
-
-Currently exploring:
-
-`Linux` · `Networking` · `Web Security` · `Vulnerability Analysis`
-
-Tools:
-
-`Kali Linux` · `Nmap` · `Wireshark` · `Burp Suite` · `Metasploitable`
-
----
-
 ## 📊 GitHub
 
 <p align="center">
