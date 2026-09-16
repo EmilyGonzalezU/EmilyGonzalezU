@@ -9,274 +9,69 @@
 </p>
 
 <p align="center">
-  Building systems, exploring technology and learning how things work.
+  I build, explore and learn through technology.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-I'm a developer interested in **software development, cybersecurity and artificial intelligence**.
-
-I enjoy learning through practical projects, exploring different technologies and understanding how systems work from both a development and security perspective.
-
-My main areas of interest are:
-
-- 💻 Software & Web Development
-- 🛡️ Cybersecurity
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐧 Linux & Systems
-- ☁️ Cloud Technologies
-- 🔐 Application & Network Security
+I'm interested in **software development, cybersecurity and artificial intelligence**, with a focus on learning through practical projects.
 
 ---
 
-## `> whoami`
+## 🛠️ Skills & Tools
 
-```text
-┌──(emily㉿localhost)-[~]
-└─$ whoami
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,tailwind,flask,linux,bash,git,github,vscode,aws,firebase" />
+</p>
 
-Emily
+<p align="center">
+  <b>Development</b> · Python · JavaScript · React · Vite · Flask
+  <br>
+  <b>Cybersecurity</b> · Linux · Kali Linux · Nmap · Wireshark · Burp Suite
+  <br>
+  <b>AI</b> · Machine Learning · Google Colab
+  <br>
+  <b>Cloud</b> · AWS · Firebase · Firestore
+</p>
 
-┌──(emily㉿localhost)-[~]
-└─$ cat interests.txt
+---
 
-Software Development
-Cybersecurity
-Artificial Intelligence
-Linux
-Cloud Computing
-Problem Solving
+## 🚀 Featured Project
 
-┌──(emily㉿localhost)-[~]
-└─$ systemctl status emily
+### 🧠 EmotionLab
 
-● emily.service - Developer
-   Loaded: loaded
-   Active: active (learning)
-   Status: online
-🛠️ Technologies & Tools
-💻 Software & Web Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,tailwind,flask" /> </p>
+An immersive VR platform that combines **Artificial Intelligence, data analysis and web technologies** to support emotional management during university presentations.
 
-Python · JavaScript · React · Vite · Tailwind CSS · Flask
+`Unity` `React` `Flask` `Firebase` `AWS` `AI`
 
-🛡️ Cybersecurity
-<p align="left"> <img src="https://skillicons.dev/icons?i=linux,bash,kali" /> </p>
+---
 
-I'm interested in practical cybersecurity, system analysis and security testing.
+## 🔐 Cybersecurity
 
-Areas:
+Currently exploring:
 
-Network Security
-Web Application Security
-Vulnerability Analysis
-Reconnaissance & Enumeration
-Linux Security
-Traffic Analysis
-Security Testing
-System Hardening
+`Linux` · `Networking` · `Web Security` · `Vulnerability Analysis`
 
-Tools & Labs:
+Tools:
 
-Kali Linux · Linux · Nmap · Wireshark · Burp Suite · Metasploitable
+`Kali Linux` · `Nmap` · `Wireshark` · `Burp Suite` · `Metasploitable`
 
-🤖 Artificial Intelligence
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" /> </p>
+---
 
-Areas:
+## 📊 GitHub
 
-Machine Learning
-Predictive Models
-Classification
-Data Analysis
-Model Evaluation
-AI Integration
-Google Colab
-☁️ Cloud & Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws,firebase,flask" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilyGonzalezU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+</p>
 
-AWS · Firebase · Firestore · Flask
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyGonzalezU&theme=tokyonight&hide_border=true&background=0D1117">
+</p>
 
-🔧 Tools & Environment
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </p>
+---
 
-Git · GitHub · Visual Studio Code · Linux
-
-🎯 Current Focus
-╔══════════════════════════════════════════════╗
-║                                              ║
-║  SOFTWARE DEVELOPMENT                        ║
-║  ├─ Web Applications                         ║
-║  ├─ Backend Systems                           ║
-║  └─ Software Architecture                    ║
-║                                              ║
-║  CYBERSECURITY                               ║
-║  ├─ Linux                                    ║
-║  ├─ Networking                               ║
-║  ├─ Web Security                             ║
-║  └─ Security Testing                          ║
-║                                              ║
-║  ARTIFICIAL INTELLIGENCE                     ║
-║  ├─ Machine Learning                         ║
-║  ├─ Predictive Models                        ║
-║  └─ Data Analysis                            ║
-║                                              ║
-║  CLOUD                                       ║
-║  ├─ AWS                                      ║
-║  └─ Firebase                                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-🚀 Featured Project
-🧠 EmotionLab
-
-EmotionLab is an immersive VR solution designed to support emotional management during high-pressure university presentations.
-
-The project combines virtual reality, artificial intelligence, data analysis and web technologies into a single platform.
-
-Architecture
-                         ┌─────────────────┐
-                         │      UNITY      │
-                         │       VR        │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │      AWS        │
-                         │   Data / AI     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │      FLASK      │
-                         │     Backend     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │     REACT + VITE       │
-                    │       Dashboard        │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                         ┌─────────────────┐
-                         │    FIREBASE     │
-                         │    Firestore    │
-                         └─────────────────┘
-Technologies
-
-Unity · React · Vite · Tailwind CSS · Flask · Firebase · AWS · Python · AI
-
-🛡️ Cybersecurity Labs
-
-I use practical environments to understand cybersecurity concepts through experimentation and analysis.
-
-┌───────────────────────┐
-│    Reconnaissance     │
-└───────────┬───────────┘
-            │
-            ▼
-┌───────────────────────┐
-│     Enumeration       │
-└───────────┬───────────┘
-            │
-            ▼
-┌───────────────────────┐
-│ Vulnerability Analysis│
-└───────────┬───────────┘
-            │
-            ▼
-┌───────────────────────┐
-│    Security Testing   │
-└───────────┬───────────┘
-            │
-            ▼
-┌───────────────────────┐
-│       Analysis        │
-└───────────┬───────────┘
-            │
-            ▼
-┌───────────────────────┐
-│      Mitigation       │
-└───────────────────────┘
-Security Environment
-Linux
-  │
-  ├── Kali Linux
-  │
-  ├── Metasploitable
-  │
-  ├── Nmap
-  │
-  ├── Wireshark
-  │
-  └── Burp Suite
-📚 Currently Learning
-[+] Cybersecurity
-[+] Linux
-[+] Networking
-[+] Web Application Security
-[+] Machine Learning
-[+] Artificial Intelligence
-[+] AWS
-[+] Software Architecture
-🧰 My Toolbox
-                         EMILY'S TOOLBOX
-                                │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-          ▼                     ▼                     ▼
-     DEVELOPMENT          CYBERSECURITY              AI
-          │                     │                     │
-     ├─ Python             ├─ Linux              ├─ Python
-     ├─ JavaScript         ├─ Kali Linux         ├─ ML
-     ├─ React              ├─ Nmap               ├─ Data Analysis
-     ├─ Vite               ├─ Wireshark          └─ Google Colab
-     ├─ Tailwind           ├─ Burp Suite
-     └─ Flask              └─ Metasploitable
-
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
-                                │
-                                ▼
-                           CLOUD / TOOLS
-                                │
-                         ├─ AWS
-                         ├─ Firebase
-                         ├─ Firestore
-                         ├─ Git
-                         ├─ GitHub
-                         └─ VS Code
-💻 Development Environment
-$ neofetch
-
-OS:          Linux
-Shell:       Bash
-Editor:      Visual Studio Code
-Languages:   Python / JavaScript
-Frontend:    React / Vite / Tailwind CSS
-Backend:     Flask
-Database:    Firebase / Firestore
-Cloud:       AWS
-Versioning:  Git / GitHub
-Security:    Kali Linux / Nmap / Wireshark / Burp Suite
-AI:          Python / Machine Learning / Google Colab
-🔐 Security Mindset
-Understand
-    ↓
-Analyze
-    ↓
-Test
-    ↓
-Secure
-    ↓
-Improve
-
-I believe that understanding how systems work is an important part of building them securely.
-
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117"> </p>
-<p align="center"> <i>Exploring. Building. Securing. Learning.</i> </p> <p align="center"> <code>system.status = ONLINE</code> </p> ```
+<p align="center">
+  <i>Build · Learn · Secure</i>
+</p>
